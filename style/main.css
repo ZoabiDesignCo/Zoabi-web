@@ -1,0 +1,14 @@
+.body {
+    background-color: rgb(245, 245, 245);
+    color: black;
+    
+}
+
+.titles{
+    text-align: center;
+    padding: 6px;
+}
+
+.signupButton {
+    padding-right: 4px;
+}
