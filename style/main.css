@@ -2,16 +2,24 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-.body {
+.titles {
+    text-align: center;
+    padding: 6px;
+    padding-top: 2rem;
     background-color: rgb(245, 245, 245);
     color: black;
 }
 
-.titles {
-    text-align: center;
-    padding: 6px;
-}
-
 .spacer {
     padding: 6px;
+    background-color: rgb(245, 245, 245);
+    color: black;
+}
+
+.bio, .services {
+    align-items: center;
+    padding: 3rem;
+    padding-top: 1rem;
+    background-color: rgb(245, 245, 245);
+    color: black;
 }
