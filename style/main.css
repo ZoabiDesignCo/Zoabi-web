@@ -22,7 +22,7 @@ body {
     padding: 6px;
 }
 
-.bio, .services, .form{
+.bio, .services, .form, .Contactinfo{
     align-items: center;
     padding: 3rem;
     padding-top: 1rem;
